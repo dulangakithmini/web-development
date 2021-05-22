@@ -167,6 +167,11 @@ input[type="submit"] {
     cursor: pointer;
 }
 
+iframe {
+    width: 500px;
+    height: 500px;
+}
+
 /*img {*/
 /*  width: 100px;*/
 /*  border-radius: 50px;*/
