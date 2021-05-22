@@ -94,6 +94,11 @@ img {
     margin-top: 3em;
 }
 
+.features-section {
+    background: #20272e;
+    color: white;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
