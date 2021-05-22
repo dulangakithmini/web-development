@@ -111,6 +111,21 @@ li {
     position: relative;
 }
 
+.testimonials-section {
+    background: #007af3;
+    color: white;
+
+}
+
+.testimonials-section-list {
+    background: #006bd6;
+    text-align: center;
+    padding: 2em 1em;
+    width: 80%;
+    margin: 0 auto 5em auto;
+    border-radius: 1em;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
