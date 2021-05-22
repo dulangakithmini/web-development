@@ -79,6 +79,12 @@ h1 {
     display: inline-block;
 }
 
+.watch-video-cta {
+    /*get Watch a video hyperlink to the next line*/
+    display: block;
+    margin-top: 1em;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
