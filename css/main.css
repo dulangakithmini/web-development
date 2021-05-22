@@ -99,6 +99,11 @@ img {
     color: white;
 }
 
+.features-list {
+    margin: 0;
+    padding-left: 0.1em;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
