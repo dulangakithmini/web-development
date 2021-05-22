@@ -53,6 +53,13 @@ section {
     text-align: center;
 }
 
+.subHead {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: gray;
+    letter-spacing: 0.3em;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
