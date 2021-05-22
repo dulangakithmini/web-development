@@ -31,6 +31,10 @@ nav {
     place-content: space-between;
 }
 
+.mobile-menu {
+    cursor: pointer;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
