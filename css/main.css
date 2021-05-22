@@ -22,6 +22,11 @@ span {
     color: #007af3;
 }
 
+nav {
+    display: none;
+}
+
+
 /*img {*/
 /*  width: 100px;*/
 /*  border-radius: 50px;*/
