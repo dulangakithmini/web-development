@@ -35,6 +35,10 @@ nav {
     cursor: pointer;
 }
 
+a {
+    color: #444444;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
