@@ -26,6 +26,11 @@ nav {
     display: none;
 }
 
+.container {
+    display: flex;
+    place-content: space-between;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
