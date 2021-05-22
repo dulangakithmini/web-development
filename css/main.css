@@ -66,6 +66,19 @@ h1 {
     margin-top: 0.2em;
 }
 
+.primary-cta {
+    background: #007af3;
+    color: white;
+
+    /*eliminate underline*/
+    text-decoration: none;
+    padding: 0.6em 1.3em;
+    font-size: 1.4em;
+    border-radius: 5em;
+    font-weight: bold;
+    display: inline-block;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
