@@ -6,6 +6,11 @@ body {
     font-family: Poppins;
 }
 
+.navBar {
+    background: white;
+    padding: 1em;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
