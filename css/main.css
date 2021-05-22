@@ -1,12 +1,12 @@
-img {
-  width: 100px;
-  border-radius: 50px;
-  float: left;
-  margin-right: 10px;
-  height: 100px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
+/*img {*/
+/*  width: 100px;*/
+/*  border-radius: 50px;*/
+/*  float: left;*/
+/*  margin-right: 10px;*/
+/*  height: 100px;*/
+/*  -o-object-fit: cover;*/
+/*     object-fit: cover;*/
+/*}*/
 
 .username {
   font-weight: bold;
@@ -15,4 +15,6 @@ img {
 em {
   color: red;
   font-style: normal;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
