@@ -104,6 +104,13 @@ img {
     padding-left: 0.1em;
 }
 
+li {
+    font-size: 1.1em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    position: relative;
+}
+
 
 /*img {*/
 /*  width: 100px;*/
