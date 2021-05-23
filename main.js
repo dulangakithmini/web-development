@@ -35,3 +35,7 @@ console.log(name.length);
 
 // change a string to uppercase
 console.log(name.toUpperCase());
+
+// split
+const s = 'Hello World';
+console.log(s.split(' '));
