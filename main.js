@@ -27,3 +27,5 @@ const name = 'Dula';
 const myAge = 26;
 console.log('My name is ' + name + ' and my age is ' + myAge);
 
+// string concatenation-better way
+console.log(`My name is ${name} and my age is ${myAge}`);
