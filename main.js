@@ -59,3 +59,6 @@ console.log(fruits);
 // add an element to the beginning of the array
 fruits.unshift('grapes');
 console.log(fruits);
+
+// index of an array element
+console.log(fruits.indexOf('orange'))
