@@ -43,3 +43,7 @@ console.log(s.split(' '));
 // create an array
 const numbers = new Array(1, 2, 3, 4, 5);
 console.log(numbers)
+// Or
+const fruits = ['apple', 'orange', 10];
+console.log(fruits);
+console.log(typeof fruits[2]);
