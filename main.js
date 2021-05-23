@@ -46,4 +46,9 @@ console.log(numbers)
 // Or
 const fruits = ['apple', 'orange', 10];
 console.log(fruits);
+
 console.log(typeof fruits[2]);
+
+// add an element to an array
+fruits[3] = 'pears';
+console.log(fruits);
