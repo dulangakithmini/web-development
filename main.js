@@ -21,3 +21,9 @@ const age = 25;
 
 // test the type of a variable
 console.log(typeof age);
+
+// string concatenation-old way
+const name = 'Dula';
+const myAge = 26;
+console.log('My name is ' + name + ' and my age is ' + myAge);
+
