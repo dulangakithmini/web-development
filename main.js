@@ -112,7 +112,13 @@ function Person(firstname, lastname) {
     this.lastname = lastname;
 }
 
+// attach properties and methods to prototypes
+Person.prototype.getFullName = function () {
+    return `${this.firstname} ${this.lastname}`;
+}
+
 // instantiate object
 const person1 = new Person('Dula', 'K');
 
-console.log(person1)
+console.log(person1.firstname)
+console.log(person1.getFullName())
