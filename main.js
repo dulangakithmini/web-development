@@ -122,3 +122,15 @@ const person1 = new Person('Dula', 'K');
 
 console.log(person1.firstname)
 console.log(person1.getFullName())
+
+// Create a class for the above Person
+class Person {
+    constructor(firstname, lastname) {
+        this.firstname = firstname;
+        this.lastname = lastname;
+    }
+
+    getFullName() {
+        return `${this.firstname} ${this.lastname}`;
+    }
+}
