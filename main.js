@@ -32,3 +32,6 @@ console.log(`My name is ${name} and my age is ${myAge}`);
 
 // get length of a string
 console.log(name.length);
+
+// change a string to uppercase
+console.log(name.toUpperCase());
