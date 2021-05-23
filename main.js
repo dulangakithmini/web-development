@@ -85,3 +85,7 @@ console.log(person.address.city)
 person.email = 'dulak@gmail.com'
 
 console.log(person)
+
+// convert into JSON
+const personJSON = JSON.stringify(person)
+console.log(personJSON)
