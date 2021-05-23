@@ -104,3 +104,15 @@ const addNums = (number1, number2) => {
     console.log(number1 + number2);
 }
 addNums(2, 7)
+
+
+// constructor function
+function Person(firstname, lastname) {
+    this.firstname = firstname;
+    this.lastname = lastname;
+}
+
+// instantiate object
+const person1 = new Person('Dula', 'K');
+
+console.log(person1)
