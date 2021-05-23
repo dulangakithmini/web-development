@@ -62,3 +62,21 @@ console.log(fruits);
 
 // index of an array element
 console.log(fruits.indexOf('orange'))
+
+// object literals
+const person = {
+    firstname: 'Dula',
+    lastname: 'K',
+    age: 26,
+    hobbies: ['dancing', 'music'],
+    address: {
+        street: 'First street',
+        city: 'Seoul',
+        Country: 'SK'
+    }
+}
+
+console.log(person)
+console.log(person.firstname, person.lastname)
+console.log(person.hobbies[1])
+console.log(person.address.city)
