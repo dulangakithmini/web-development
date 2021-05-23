@@ -89,3 +89,11 @@ console.log(person)
 // convert into JSON
 const personJSON = JSON.stringify(person)
 console.log(personJSON)
+
+
+// create a function
+function addNumbers(number1, number2) {
+    console.log(number1 + number2)
+}
+
+addNumbers(5, 6)
