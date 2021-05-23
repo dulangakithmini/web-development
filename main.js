@@ -17,4 +17,7 @@ score = 50;
 console.log(score);
 
 const age = 25;
-age = 26;
+// age = 26;
+
+// test the type of a variable
+console.log(typeof age);
