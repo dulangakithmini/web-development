@@ -52,3 +52,6 @@ console.log(typeof fruits[2]);
 // add an element to an array
 fruits[3] = 'pears';
 console.log(fruits);
+
+fruits.push('mango');
+console.log(fruits);
