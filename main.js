@@ -97,3 +97,10 @@ function addNumbers(number1, number2) {
 }
 
 addNumbers(5, 6)
+
+
+// functions with arrow functions
+const addNums = (number1, number2) => {
+    console.log(number1 + number2);
+}
+addNums(2, 7)
