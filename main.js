@@ -39,3 +39,7 @@ console.log(name.toUpperCase());
 // split
 const s = 'Hello World';
 console.log(s.split(' '));
+
+// create an array
+const numbers = new Array(1, 2, 3, 4, 5);
+console.log(numbers)
