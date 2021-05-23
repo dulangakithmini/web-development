@@ -80,3 +80,8 @@ console.log(person)
 console.log(person.firstname, person.lastname)
 console.log(person.hobbies[1])
 console.log(person.address.city)
+
+// add new properties
+person.email = 'dulak@gmail.com'
+
+console.log(person)
